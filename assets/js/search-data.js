@@ -52,7 +52,7 @@ ninja.data = [{
           title: '在细雨中呼喊',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/%E5%9C%A8%E7%BB%86%E9%9B%A8%E4%B8%AD%E5%91%BC%E5%96%8A/";
             },},{id: "news-our-eyexrciser-project-has-been-acctepted-by-chi2026-sparkles",
           title: 'Our EyeXRciser project has been acctepted by CHI2026! :sparkles:',
           description: "",
