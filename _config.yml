@@ -275,8 +275,8 @@ display_categories: ["external-links"] # these categories will be displayed on t
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xu]
+  first_name: [Hongyue]
 
   style: apa
   locale: en
